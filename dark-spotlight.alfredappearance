@@ -6,13 +6,13 @@
         "size" : 10,
         "colorSelected" : "#FFFFFFC4",
         "font" : "Helvetica Neue Light",
-        "color" : "#FEFFFFFF"
+        "color" : "#FEFFFF98"
       },
       "shortcut" : {
         "size" : 16,
         "colorSelected" : "#FFFFFFFF",
         "font" : "Helvetica Neue Light",
-        "color" : "#480069FF"
+        "color" : "#FEFFFFFF"
       },
       "backgroundSelected" : "#325EF3FF",
       "text" : {
@@ -27,7 +27,7 @@
     },
     "search" : {
       "paddingVertical" : 9,
-      "background" : "#2828287F",
+      "background" : "#28282800",
       "spacing" : 4,
       "text" : {
         "size" : 33,
@@ -38,7 +38,7 @@
       "backgroundSelected" : "#A3CCFEFF"
     },
     "window" : {
-      "color" : "#2828287F",
+      "color" : "#282828B2",
       "paddingHorizontal" : 5,
       "width" : 686,
       "borderPadding" : 0,
@@ -53,7 +53,7 @@
       "thickness" : 0
     },
     "scrollbar" : {
-      "color" : "#480069FF",
+      "color" : "#FEFFFF7F",
       "thickness" : 2
     },
     "name" : "dark-spotlight"
